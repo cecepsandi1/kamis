@@ -69,7 +69,7 @@ class Login extends CI_Controller{
 
 		}
 		else {
-				$this->session->set_flashdata('Alert', 'Anda Belum mengisi username atau Password');
+				$this->session->set_flashdata('Alert', 'Isi Dulu Username & Passwordnya');
 				redirect(base_url('login'));
 		}
 
