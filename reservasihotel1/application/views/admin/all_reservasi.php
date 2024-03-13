@@ -29,7 +29,7 @@
           <div class="card-header bg-success">
            
             <i class="fas fa-table"></i>
-            Semua Reservasi Selesai</div>
+            reservasi selesai</div>
              <?php 
                   
                           if($this->session->flashdata('in')){

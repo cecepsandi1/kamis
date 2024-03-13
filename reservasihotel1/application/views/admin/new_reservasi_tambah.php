@@ -19,7 +19,7 @@
     <div class="card mb-3">
           <div class="card-header bg-success">
             <i class="fas fa-table"></i>
-            Tambah Reservasi Baru</div>
+            Buat Reservasi Baru</div>
             <div class="card-body">
                   
                     <?php if(validation_errors()) { ?>
