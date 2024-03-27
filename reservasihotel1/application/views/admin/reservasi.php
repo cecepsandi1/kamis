@@ -64,7 +64,7 @@
               ?>
           <div class="card-body">
             <div class="table-responsive">
-               <a class="btn btn-success " href="new_reservasi_tambah">Add <i class="fa fa-plus"></i></a><br>
+               <a class="btn btn-success " href="new_reservasi_tambah">Tambah <i class="fa fa-plus"></i></a><br>
               <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                 <br>
          <thead>
@@ -72,7 +72,7 @@
             <th width="1%">No</th>
             <th width="29%" >Aksi</th>
             <th >Nama</th>
-            <th >Telp</th>
+            <th >Telepon</th>
             <th >Alamat</th>
             <th width="12%">Tgl Masuk</th>
             <th width="12%">Tgl Keluar</th>

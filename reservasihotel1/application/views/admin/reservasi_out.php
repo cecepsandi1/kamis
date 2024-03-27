@@ -80,7 +80,7 @@
 
                           <div class="col-md-6">
                             <div class="form-group">
-                              <label class="control-label col-md-3">Telp</label>
+                              <label class="control-label col-md-3">Telepon</label>
                               <div class="col-md-9">
                                 <input type="text" class="form-control" name="tlp_reservasi" value="<?php echo $tlp_reservasi;?>" disabled>
                                 
